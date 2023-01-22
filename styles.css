@@ -162,7 +162,7 @@ display: inline-block;
   .navbar-email {
       display: none;
   }
-  desktop-menu {
+  .desktop-menu {
     display: none;
   }
 }
